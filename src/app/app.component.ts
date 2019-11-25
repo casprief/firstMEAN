@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'firstMean';
+  storedPosts = [];
+
+  onPostAdded(post){
+    this.storedPosts.push(post);
+  }
 }
+
