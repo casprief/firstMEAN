@@ -1,7 +1,7 @@
 # FirstMean
 
-First application generated with Angular Framework.
-It is capable to capture the input post of the user and show it back.
+Application generated with Angular Framework.
+It is capable to capture the title and content of a post of the user and show it in the feed.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
